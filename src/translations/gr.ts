@@ -1,3 +1,4 @@
+// prettier-ignore
 const gr = {
   translation: {
     'Cancel': 'Άκυρο',
@@ -31,3 +32,5 @@ const gr = {
     'Unknown': 'Άγνωστο'
   }
 };
+
+export default gr;
