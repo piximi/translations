@@ -5,6 +5,7 @@ import hi from './translations/hi';
 import hu from './translations/hu';
 import se from './translations/se';
 import gr from './translations/gr';
+import zh_cn from './translations/zh-cn';
 
 const translations = {
   de: de,
@@ -13,7 +14,8 @@ const translations = {
   hi: hi,
   hu: hu,
   se: se,
-  gr: gr
+  gr: gr,
+  zh_cn: zh_cn
 };
 
 export {
@@ -23,7 +25,8 @@ export {
   hi,
   hu,
   se,
-  gr
+  gr,
+  zh_cn
 }
 
 export default translations;
